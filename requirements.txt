@@ -1,5 +1,8 @@
 streamlit
-yfinance
+tushare
+requests
+beautifulsoup4
+lxml
 pandas
 numpy
 scikit-learn
@@ -7,3 +10,9 @@ textblob
 plotly
 matplotlib
 wordcloud
+urllib3<2.0.0
+jieba
+pillow
+snownlp
+pymysql
+sqlalchemy
